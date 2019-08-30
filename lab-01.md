@@ -24,7 +24,8 @@ $$e = \lim_{n \to \infty}\bigg(1 + \frac{1}{n}\bigg)^n.$$
 
 
 After you write your function, test it with the following function calls.
-What do you notice happens? Why is this happening?
+What do you notice happens? Why is this happening? **Be sure to remove the**
+**chunk option `eval=FALSE` to see the output when you knit your document.**
 
 
 ```r
@@ -100,9 +101,9 @@ Pareto distribution with $x_0 = 1\times 10^6, \alpha = 2.5$.
 ```
 
 ```
-## [1] 1.319508
-## [1] 1006469227
-## [1] 5386087
+[1] 1.319508
+[1] 1006469227
+[1] 5386087
 ```
 
 It would be helpful to have a function that automated this process,
