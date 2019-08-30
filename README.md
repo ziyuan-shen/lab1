@@ -1,4 +1,4 @@
-# Lab 01
+# Lab 1
 
 ## Description
 
