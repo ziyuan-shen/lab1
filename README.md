@@ -1,2 +1,6 @@
-# lab-01
-STA 523 Lab 1
+# Lab 01
+
+## Description
+
+The lab exercises focus on function writing and control flow in the R
+environment. R Markdown is used as an introduction to reproducible research.
